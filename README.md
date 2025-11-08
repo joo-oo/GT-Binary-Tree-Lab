@@ -1,8 +1,8 @@
 # Ergio Rafael De Guzman
 
-GT-Binary-Tree-Lab
-C2B
-Output([Tree construction complete!
+-GT-Binary-Tree-Lab
+-C2B
+-Output([Tree construction complete!
 Let's see how a computer would read this tree...
 
 --- Pre-Order Traversal (Root -> Left -> Right) ---
